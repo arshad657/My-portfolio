@@ -4,6 +4,7 @@ import Header from './header/Header';
 import Home from './Home';
 import Services from './Services';
 import Loader from './Loader Page/Loader';
+import About from './About';
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       <Loader />
       <Header />
       <Home />
-
+      
+      <About />
       <Services />
       <Contact />
       

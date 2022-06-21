@@ -32,22 +32,23 @@ function Home() {
 
     return (
     
-
-        
-    <div className='d-flex mt-5 home'>
+    // <div className='d-flex mt-5 home'>
       <div className='home-des'>
-      <h1 className='text items'>I am Arshad. I am a</h1>
+      
+      <h1 className='items'>I AM ARSHAD. I AM A</h1>
       <img src="images/mern.png" alt="" className='items mern-pic'/>
-      <h1 className='text items'>Stack Developer</h1>
-      <div>
+      <h1 className='items'>STACK DEVELOPER</h1>
+      
+      
+      
       <a href='https://drive.google.com/file/d/1gr4WoR2EK5cyEvlXv5HhQFKaSOZ-ypuy/view?usp=sharing' className='cv-btn items' target="_blank">My CV</a>
-      </div>
+      
       <br />
       
       </div>
     
-      {/* <img src='images/arshad4.png' className='pic'/> */}
-        </div>
+      //  
+        // </div>*/}
       
     )
 }

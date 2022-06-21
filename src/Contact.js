@@ -4,7 +4,7 @@ import './Contact.css'
 function Contact() {
     return (
         <div id='contact'>
-            <div class="d-flex flex-row bd-highlight container">
+            <div class="d-flex flex-row bd-highlight container justify-content-center">
                 <div class="p-2 bd-highlight bor">
                     <p>Contact Me</p>
                 </div>

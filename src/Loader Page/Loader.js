@@ -12,15 +12,15 @@ function Loader() {
         <div className="elem">
           <strong>Arshad Almas.</strong>
         </div>
-        <div className="elem">
+        {/* <div className="elem">
           <strong>MERN Stack Developer</strong>
         </div>
         <div className="elem">
           <strong>loves to help brands.</strong>
-        </div>
-        <div className="elem">
+        </div> */}
+        {/* <div className="elem">
           <strong>Arshad Almas.</strong>
-        </div>
+        </div> */}
         
         
       </div>
