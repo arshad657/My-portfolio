@@ -44,6 +44,10 @@ function Home() {
       <a href='https://drive.google.com/file/d/1gr4WoR2EK5cyEvlXv5HhQFKaSOZ-ypuy/view?usp=sharing' className='cv-btn items' target="_blank">My CV</a>
       
       <br />
+      <div className='arrow mt-5 pt-5 d-flex flex-column items'>
+                <i class="fas fa-angle-down "></i>
+                <i class="fas fa-angle-down "></i>
+                </div>
       
       </div>
     

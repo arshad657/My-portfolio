@@ -3,16 +3,14 @@ import './Contact.css'
 
 function Contact() {
     return (
-        <div id='contact'>
-            <div class="d-flex flex-row bd-highlight container justify-content-center">
-                <div class="p-2 bd-highlight bor">
+        <div id='contact' className='pb-5'>
+                <div class="p-3 contact-heading"> 
                     <p>Contact Me</p>
                 </div>
-                <div className='arrow'>
-                <i class="fas fa-greater-than "></i>
-                </div>
-
-                <div class="p-2 second">
+                <div class="p-2 second d-flex align-items-center justify-content-evenly">
+                    <div>
+                        <img src="images/graphic-contact.png" className='w-75 mt-5 pt-5' alt="" srcset="" />
+                    </div>
                     
                 <div class="accordion accordion-flush" id="accordionFlushExample">
                 <div class="accordion-item black ">
@@ -45,10 +43,6 @@ function Contact() {
                      
                     
                 </div>
-
-                
-            </div>
-            
         </div>
     )
 }

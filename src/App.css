@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Nanum+Gothic+Coding:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Joan&family=Nanum+Gothic+Coding:wght@700&display=swap');
 
 body{
   
-  font-family: 'Cormorant Garamond', serif;
-font-family: 'Nanum Gothic Coding', monospace;
-  font-size: 25px;
+  
   /* background-color: white; */
   
   
@@ -12,6 +11,9 @@ font-family: 'Nanum Gothic Coding', monospace;
 }
 
 .App {
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Nanum Gothic Coding', monospace;
+  font-size: 25px;
   
   text-align: center;
   /* display: flex;

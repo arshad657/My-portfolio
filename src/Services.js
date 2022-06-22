@@ -3,7 +3,7 @@ import './Services.css'
 
 function Services() {
     return (
-        <div className='services'>
+        <div className='services pb-5'>
             <h1 className='service-heading p-3 mb-5'>SKILLS</h1>
             <div >
                     <div className='d-flex justify-content-center container skill-container'>

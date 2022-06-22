@@ -1,0 +1,9 @@
+body{
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Joan', serif;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+.footer{
+    font-size: 20px;
+    color: rgba(191, 191, 191, 0.77);
+}
