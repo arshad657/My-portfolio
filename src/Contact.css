@@ -30,3 +30,18 @@
 .contact-options{
     font-size: 58px;
 }
+
+
+@media(max-width:414px){
+    .contact-cont{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-pic{
+        width: 80%;
+        margin-bottom: 100px;
+    }
+    .black{
+        font-size: 35px;
+    }
+}

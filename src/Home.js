@@ -32,7 +32,6 @@ function Home() {
 
     return (
     
-    // <div className='d-flex mt-5 home'>
       <div className='home-des'>
       
       <h1 className='items'>I AM ARSHAD. I AM A</h1>
@@ -50,9 +49,6 @@ function Home() {
                 </div>
       
       </div>
-    
-      //  
-        // </div>*/}
       
     )
 }

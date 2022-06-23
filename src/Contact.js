@@ -7,8 +7,8 @@ function Contact() {
                 <div class="p-3 contact-heading"> 
                     <p>Contact Me</p>
                 </div>
-                <div class="p-2 second d-flex align-items-center justify-content-evenly">
-                    <div>
+                <div class="p-2 second d-flex align-items-center justify-content-evenly contact-cont">
+                    <div className='contact-pic'>
                         <img src="images/graphic-contact.png" className='w-75 mt-5 pt-5' alt="" srcset="" />
                     </div>
                     

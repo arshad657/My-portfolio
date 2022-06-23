@@ -4,11 +4,13 @@ import './Header.css'
 function Header() {
     return (
         <div>
-            <nav class="navbar fixed-top navbar-dark bg-transparent">
+            <nav class="navbar fixed-top navbar-dark bg-black">
                     <div class="container-fluid">
-                        <a class="navbar-brand" href="#">Web Developer Arshad</a>
+                        <a class="navbar-brand" href="#">
+                            <img src="images/logo.png" className='w-25' alt="" srcset="" />
+                            Arshad Almas</a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">
-                        <span>Menu</span> <span class="navbar-toggler-icon"></span>
+                        <span id='menu'>Menu</span> <span class="navbar-toggler-icon"></span>
                         </button>
 
                         <div class="offcanvas offcanvas-end bg-transparent menu" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
@@ -23,10 +25,10 @@ function Header() {
                             <a class="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item">
-                            <a class="nav-link" href="#services">Skills</a>
+                            <a class="nav-link" href="#about">About</a>
                             </li>
                             <li class="nav-item">
-                            <a class="nav-link" href="#">Projects</a>
+                            <a class="nav-link" href="#services">Skills</a>
                             </li>
                             <li class="nav-item">
                             <a class="nav-link" href="#contact">Contact Me</a>

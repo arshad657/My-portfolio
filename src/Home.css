@@ -26,7 +26,6 @@
     text-decoration: none;
     background-color: rgba(9, 149, 204, 0.5);
     color: white;
-    /* margin-left: 700px; */
     padding: 11px;
     font-size: 25px;
     height: 62px;
@@ -44,4 +43,10 @@
 
   .arrow{
     font-size: 40px;
+  }
+
+  @media(max-width:414px){
+    .mern-pic{
+      width: 70%;
+    }
   }
