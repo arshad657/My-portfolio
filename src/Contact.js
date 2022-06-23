@@ -22,20 +22,20 @@ function Contact() {
                     </button>
                     </h2>
                     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body"> <code> +880 19819-11829</code></div>
+                    <div class="accordion-body"> <code className='fs-4'>+880 19819-11829</code></div>
                     </div>
                 </div>
                 <hr /> 
                 <div class="accordion-item black">
                     <h2 class="accordion-header black" id="flush-headingTwo">
-                    <button class="accordion-button collapsed black " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                    <button class="accordion-button collapsed black" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
                         <div class="p-2 contact-options black">
                         <i class="fas fa-comment"></i> Email
                         </div>
                     </button>
                     </h2>
                     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body"> <code> ahmedarshad8565@gmail.com</code></div>
+                    <div class="accordion-body"> <code className='fs-6'> ahmedarshad8565@gmail.com</code></div>
                     </div>
                 </div>
                 </div>

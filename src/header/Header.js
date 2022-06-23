@@ -6,9 +6,9 @@ function Header() {
         <div>
             <nav class="navbar fixed-top navbar-dark bg-black">
                     <div class="container-fluid">
-                        <a class="navbar-brand" href="#">
+                        <a class="navbar-brand" href="#" >
                             <img src="images/logo.png" className='w-25' alt="" srcset="" />
-                            Arshad Almas</a>
+                            </a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">
                         <span id='menu'>Menu</span> <span class="navbar-toggler-icon"></span>
                         </button>
